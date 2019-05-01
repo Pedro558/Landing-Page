@@ -4,7 +4,7 @@
   "description": "Page describe services of a fictional company",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d files"
   },
   "repository": {
     "type": "git",
@@ -13,10 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://landing-page.github.io/2A",
   "bugs": {
     "url": "https://github.com/Pedro558/Landing-Page/issues"
   },
-  "homepage": "https://github.com/Pedro558/Landing-Page#readme",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
